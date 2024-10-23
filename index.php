@@ -7,7 +7,7 @@ echo"<!DOCTYPE html>
 
 <head>
 
-<link rel='stylesheet' href='styles.css'>
+<link rel='stylesheet' href='styles.css'>     
 <title> Watkin's ToDo List website</title>
 
 </head>
@@ -18,7 +18,7 @@ echo"<!DOCTYPE html>
 
 <div id='title'>
 
-<h3 id='banner'>Watkin's ToDo List</h3>
+<h3 id='banner'>Swanky ToDo List</h3>
 
 </div>
 
@@ -45,7 +45,7 @@ echo "</ul>
 
 <div id='content'>
 
-<p>Welcome to the Watkin's ToDo list website. Here you can sign up to create and manage all of your to do lists in one easy place</p>
+<p>Welcome to this swanky to do  list website. Here you can sign up to create and manage all of your to do lists in one easy place</p>
 
 <p>You will need to register first to be able to make use of the system, but after that its all free to use.</p>
 
