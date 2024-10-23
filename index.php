@@ -26,7 +26,7 @@ echo"<!DOCTYPE html>
 
 <ul id='menu'>
 
-<a href='index.php'><li> Home </li></a>"
+<a href='index.php'><li> Home </li></a>";
 
 if (empty($_SESSION["ssnlogin"])) {
     echo "<a href='login.php'><li> Login </li></a> 
